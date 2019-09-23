@@ -1,1 +1,2 @@
-class Pr
+class Project
+end
