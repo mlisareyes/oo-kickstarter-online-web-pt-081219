@@ -5,7 +5,7 @@ class Backer
   
   def initialize(name, title)
     @name = name
-    @title = tile
+    @title = title
     @backed_projects = []
   end
 end
